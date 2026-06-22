@@ -1,0 +1,38 @@
+# ===== OPERATING SYSTEM FILES =====
+# Mac OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+
+# ===== CODE EDITOR/IDE FILES =====
+.vscode/
+*.code-workspace
+.idea/
+.sublime-project
+.sublime-workspace
+*.swp
+*.swo
+*~
+
+# ===== BACKUP FILES =====
+*.bak
+*.backup
+*.tmp
+
+# ===== FOR FUTURE (when you add CSS/JavaScript) =====
+node_modules/
+package-lock.json
+npm-debug.log
+.env
+.env.local
