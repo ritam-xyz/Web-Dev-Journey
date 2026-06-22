@@ -1,1 +1,116 @@
- "# Web Development Journey 🚀\n\n**Ritam Das**  \nB.Tech CSE Student | Sigma Batch - Apna College\n\n### 🌐 Live Portfolio\n**[View My Portfolio](https://ritam-xyz.github.io/Web-Dev-Journey/)** - Click here to see all my projects live!\n\n---\n\n### Progress\n- **HTML** → Completed ✅  \n- **CSS** → In Progress 🔄\n- **JavaScript** → Coming Soon 📋\n\n---\n\n## 📁 HTML Projects\n\n### 🎨 Main Projects\n\nAll projects are displayed beautifully on my [live portfolio](https://ritam-xyz.github.io/Web-Dev-Journey/). Click below to view each project:\n\n1. **Student Report Card** - A structured HTML report card displaying student information and grades\n   - [View Code](1.%20HTML/2.%20Decent-Mini-Projects/1.%20Student%20Report%20Card.html) | [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/1.%20Student%20Report%20Card.html)\n\n2. **Online Food Ordering** - An interactive food ordering interface with menu items and order forms\n   - [View Code](1.%20HTML/2.%20Decent-Mini-Projects/2.%20Online%20Food%20Ordering.html) | [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/2.%20Online%20Food%20Ordering.html)\n\n3. **Movie Ticket Booking** - A movie ticket booking system with theatre information and booking forms\n   - [View Code](1.%20HTML/2.%20Decent-Mini-Projects/3.%20Movie%20Ticket%20Booking.html) | [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/3.%20Movie%20Ticket%20Booking.html)\n\n4. **My Tech Blog** - A personal tech blog showcasing articles and web development insights\n   - [View Code](1.%20HTML/2.%20Decent-Mini-Projects/4.%20My%20Tech%20Blog.html) | [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/4.%20My%20Tech%20Blog.html)\n\n5. **Job Application Form** - A comprehensive job application form with validation fields\n   - [View Code](1.%20HTML/2.%20Decent-Mini-Projects/5.%20Job%20Application%20Form.html) | [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/5.%20Job%20Application%20Form.html)\n\n6. **Virat Kohli Wiki** - A biographical wiki page about cricket superstar Virat Kohli\n   - [View Code](1.%20HTML/2.%20Decent-Mini-Projects/6.%20Virat%20Kohli%20Wiki.html) | [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/6.%20Virat%20Kohli%20Wiki.html)\n\n7. **E-Commerce Page** - An e-commerce product page with product listings and shopping cart\n   - [View Code](1.%20HTML/2.%20Decent-Mini-Projects/7.%20E-Commerce%20Page.html) | [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/7.%20E-Commerce%20Page.html)\n\n8. **Event Organisation** - A main event organization page with links to event sub-pages\n   - [View Code](1.%20HTML/2.%20Decent-Mini-Projects/8.%20Event%20Organisation.html) | [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/8.%20Event%20Organisation.html)\n\n### 🎪 Event Organization Sub-Pages\n\n- **Event Programs** - [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/8.1%20Event%20Programms.html)\n- **Event Schedules** - [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/8.2%20Events%20Schedules.html)\n- **Event Registration Form** - [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/8.3%20Event's%20Registration%20Form.html)\n- **Event Contact Page** - [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/8.4%20Event's%20Contact%20Page.html)\n\n### 📚 Practice Questions\n\nI've also uploaded my practice questions to strengthen my base before moving to the next stage:\n- [View Practice Questions](1.%20HTML/1.%20Practice-Questions/index.html)\n\n---\n\n## 🛠️ Tech Stack\n\n- **HTML5** - Structure and semantic markup\n- **CSS** - Coming with CSS projects\n- **JavaScript** - Coming with JavaScript projects\n\n---\n\n## 📖 What I Learned\n\nThrough these projects, I've practiced:\n- HTML semantic tags\n- Forms and input validation\n- Tables and structured data\n- Navigation and links\n- Multimedia integration\n- SEO best practices\n\n---\n\n## 🎯 Learning Path\n\n1. ✅ **HTML Fundamentals** - Completed\n   - Basic tags, semantic HTML, forms, tables\n   \n2. 🔄 **CSS Styling** - In Progress\n   - Layouts, flexbox, grid, responsive design\n   \n3. 📋 **JavaScript** - Coming Soon\n   - DOM manipulation, events, interactivity\n\n---\n\n## 📂 Repository Structure\n\n```\nWeb-Dev-Journey/\n├── index.html                          # Home page\n├── README.md                           # This file\n├── LICENSE                             # MIT License\n├── .gitignore                          # Git ignore rules\n└── 1. HTML/\n    ├── 1. Practice-Questions/          # Practice projects\n    └── 2. Decent-Mini-Projects/        # Main projects\n        └── index.html                  # Projects gallery\n```\n\n---\n\n## 🚀 How to Use\n\n1. **Visit the live portfolio:** [https://ritam-xyz.github.io/Web-Dev-Journey/](https://ritam-xyz.github.io/Web-Dev-Journey/)\n2. **Browse projects** in the beautiful gallery\n3. **Click on any project** to view it live\n4. **View source code** on GitHub for each file\n\n---\n\n## 📝 About Me\n\n- 🎓 B.Tech Computer Science Engineering Student\n- 📚 Learning with Apna College Sigma Batch\n- 💻 Passionate about Web Development\n- 🌱 Currently mastering HTML, CSS, and JavaScript\n\n---\n\n## 🔗 Connect With Me\n\n- **GitHub:** [@ritam-xyz](https://github.com/ritam-xyz)\n- **Portfolio:** [https://ritam-xyz.github.io/Web-Dev-Journey/](https://ritam-xyz.github.io/Web-Dev-Journey/)\n\n---\n\n## 📄 License\n\nThis project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.\n\n---\n\nMade with ❤️ | Updated June 2026"
+# Web Development Journey 🚀
+
+**Ritam Das**  
+## 📝 About Me
+
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Learning Full Stack Web Development in MERN
+- 🌱 Currently mastering HTML, CSS, and JavaScript
+
+---
+
+### 🌐 Live Portfolio
+**[View My Portfolio](https://ritam-xyz.github.io/Web-Dev-Journey/)** - Click here to see all my projects live!
+
+---
+
+## 🎯 Learning Path
+
+1. ✅ **HTML Fundamentals** - Completed
+   - Basic tags, semantic HTML, forms, tables
+   
+2. 🔄 **CSS Styling** - In Progress
+   - Layouts, flexbox, grid, responsive design
+   
+3. 📋 **JavaScript** - Coming Soon
+   - DOM manipulation, events, interactivity
+
+---
+
+## 📁 HTML Projects
+
+### 🎨 Main Projects
+
+All projects are displayed beautifully on my [live portfolio](https://ritam-xyz.github.io/Web-Dev-Journey/). Click below to view each project:
+
+1. **Student Report Card** - A structured HTML report card displaying student information and grades
+   - [View Code](1.%20HTML/2.%20Decent-Mini-Projects/1.%20Student%20Report%20Card.html) | [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/1.%20Student%20Report%20Card.html)
+
+2. **Online Food Ordering** - An interactive food ordering interface with menu items and order forms
+   - [View Code](1.%20HTML/2.%20Decent-Mini-Projects/2.%20Online%20Food%20Ordering.html) | [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/2.%20Online%20Food%20Ordering.html)
+
+3. **Movie Ticket Booking** - A movie ticket booking system with theatre information and booking forms
+   - [View Code](1.%20HTML/2.%20Decent-Mini-Projects/3.%20Movie%20Ticket%20Booking.html) | [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/3.%20Movie%20Ticket%20Booking.html)
+
+4. **My Tech Blog** - A personal tech blog showcasing articles and web development insights
+   - [View Code](1.%20HTML/2.%20Decent-Mini-Projects/4.%20My%20Tech%20Blog.html) | [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/4.%20My%20Tech%20Blog.html)
+
+5. **Job Application Form** - A comprehensive job application form with validation fields
+   - [View Code](1.%20HTML/2.%20Decent-Mini-Projects/5.%20Job%20Application%20Form.html) | [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/5.%20Job%20Application%20Form.html)
+
+6. **Virat Kohli Wiki** - A biographical wiki page about cricket superstar Virat Kohli
+   - [View Code](1.%20HTML/2.%20Decent-Mini-Projects/6.%20Virat%20Kohli%20Wiki.html) | [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/6.%20Virat%20Kohli%20Wiki.html)
+
+7. **E-Commerce Page** - An e-commerce product page with product listings and shopping cart
+   - [View Code](1.%20HTML/2.%20Decent-Mini-Projects/7.%20E-Commerce%20Page.html) | [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/7.%20E-Commerce%20Page.html)
+
+8. **Event Organisation** - A main event organization page with links to event sub-pages
+   - [View Code](1.%20HTML/2.%20Decent-Mini-Projects/8.%20Event%20Organisation.html) | [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/8.%20Event%20Organisation.html)
+
+### 🎪 Event Organization Sub-Pages
+
+- **Event Programs** - [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/8.1%20Event%20Programms.html)
+- **Event Schedules** - [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/8.2%20Events%20Schedules.html)
+- **Event Registration Form** - [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/8.3%20Event's%20Registration%20Form.html)
+- **Event Contact Page** - [View Live](https://ritam-xyz.github.io/Web-Dev-Journey/1.%20HTML/2.%20Decent-Mini-Projects/8.4%20Event's%20Contact%20Page.html)
+
+### 📚 Practice Questions
+
+I've also uploaded my practice questions to strengthen my base before moving to the next stage:
+- [View Practice Questions](1.%20HTML/1.%20Practice-Questions/index.html)
+
+---
+
+## 📖 What I Learned
+
+Through these projects, I've practiced:
+- HTML semantic tags
+- Forms and input validation
+- Tables and structured data
+- Navigation and links
+- Multimedia integration
+- SEO best practices
+
+---
+
+## 📂 Repository Structure
+
+```
+Web-Dev-Journey/
+├── index.html                          # Home page
+├── README.md                           # This file
+├── LICENSE                             # MIT License
+├── .gitignore                          # Git ignore rules
+└── 1. HTML/
+    ├── 1. Practice-Questions/          # Practice projects
+    └── 2. Decent-Mini-Projects/        # Main projects
+        └── index.html                  # Projects gallery
+```
+
+---
+
+
+## 🔗 Connect With Me
+
+- **GitHub:** [@ritam-xyz](https://github.com/ritam-xyz)
+- **Portfolio:** [https://ritam-xyz.github.io/Web-Dev-Journey/](https://ritam-xyz.github.io/Web-Dev-Journey/)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with ❤️ | Updated June 2026
