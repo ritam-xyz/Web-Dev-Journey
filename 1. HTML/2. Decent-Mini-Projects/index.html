@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Projects - Ritam's Web Development</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 50px;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        .back-button {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-bottom: 30px;
+            transition: background 0.3s;
+        }
+        
+        .back-button:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+        
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            margin-bottom: 50px;
+        }
+        
+        .project-card {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+        }
+        
+        .project-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .project-header h2 {
+            font-size: 1.3em;
+            margin-bottom: 5px;
+        }
+        
+        .project-number {
+            font-size: 0.9em;
+            opacity: 0.8;
+        }
+        
+        .project-body {
+            padding: 25px;
+            text-align: center;
+        }
+        
+        .project-description {
+            color: #555;
+            margin-bottom: 20px;
+            font-size: 0.95em;
+        }
+        
+        .project-link {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 10px 25px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background 0.3s;
+            font-weight: 600;
+        }
+        
+        .project-link:hover {
+            background: #764ba2;
+        }
+        
+        .section-title {
+            color: white;
+            font-size: 1.8em;
+            margin-top: 40px;
+            margin-bottom: 25px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+        }
+        
+        .event-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+        
+        .event-card {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s;
+        }
+        
+        .event-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .event-header {
+            background: #27ae60;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        
+        .event-body {
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .event-link {
+            display: inline-block;
+            background: #27ae60;
+            color: white;
+            padding: 8px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background 0.3s;
+            font-weight: 600;
+        }
+        
+        .event-link:hover {
+            background: #229954;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="../../index.html" class="back-button">← Back to Home</a>
+        
+        <div class="header">
+            <h1>🎯 My HTML Projects</h1>
+            <p>A collection of my HTML practice and mini-projects</p>
+        </div>
+        
+        <!-- Main Projects -->
+        <h2 class="section-title">📁 Main Projects</h2>
+        <div class="projects-grid">
+            <div class="project-card">
+                <div class="project-header">
+                    <h2>Student Report Card</h2>
+                    <span class="project-number">Project 1</span>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">A well-structured HTML report card displaying student information and grades</p>
+                    <a href="1.%20Student%20Report%20Card.html" target="_blank" class="project-link">View Project</a>
+                </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <h2>Online Food Ordering</h2>
+                    <span class="project-number">Project 2</span>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">An interactive food ordering interface with menu items and order forms</p>
+                    <a href="2.%20Online%20Food%20Ordering.html" target="_blank" class="project-link">View Project</a>
+                </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <h2>Movie Ticket Booking</h2>
+                    <span class="project-number">Project 3</span>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">A movie ticket booking system with theatre information and booking forms</p>
+                    <a href="3.%20Movie%20Ticket%20Booking.html" target="_blank" class="project-link">View Project</a>
+                </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <h2>My Tech Blog</h2>
+                    <span class="project-number">Project 4</span>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">A personal tech blog showcasing articles and web development insights</p>
+                    <a href="4.%20My%20Tech%20Blog.html" target="_blank" class="project-link">View Project</a>
+                </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <h2>Job Application Form</h2>
+                    <span class="project-number">Project 5</span>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">A comprehensive job application form with validation fields</p>
+                    <a href="5.%20Job%20Application%20Form.html" target="_blank" class="project-link">View Project</a>
+                </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <h2>Virat Kohli Wiki</h2>
+                    <span class="project-number">Project 6</span>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">A biographical wiki page about cricket superstar Virat Kohli</p>
+                    <a href="6.%20Virat%20Kohli%20Wiki.html" target="_blank" class="project-link">View Project</a>
+                </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <h2>E-Commerce Page</h2>
+                    <span class="project-number">Project 7</span>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">An e-commerce product page with product listings and shopping cart</p>
+                    <a href="7.%20E-Commerce%20Page.html" target="_blank" class="project-link">View Project</a>
+                </div>
+            </div>
+            
+            <div class="project-card">
+                <div class="project-header">
+                    <h2>Event Organisation</h2>
+                    <span class="project-number">Project 8</span>
+                </div>
+                <div class="project-body">
+                    <p class="project-description">A main event organization page with links to event sub-pages</p>
+                    <a href="8.%20Event%20Organisation.html" target="_blank" class="project-link">View Project</a>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Event Sub-Pages -->
+        <h2 class="section-title">🎪 Event Organization Sub-Pages</h2>
+        <div class="event-cards">
+            <div class="event-card">
+                <div class="event-header">
+                    <h3>Event Programs</h3>
+                </div>
+                <div class="event-body">
+                    <p>Schedule and program details</p>
+                    <a href="8.1%20Event%20Programms.html" target="_blank" class="event-link">View →</a>
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-header">
+                    <h3>Event Schedules</h3>
+                </div>
+                <div class="event-body">
+                    <p>Timing and event schedule</p>
+                    <a href="8.2%20Events%20Schedules.html" target="_blank" class="event-link">View →</a>
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-header">
+                    <h3>Registration Form</h3>
+                </div>
+                <div class="event-body">
+                    <p>Event participant registration</p>
+                    <a href="8.3%20Event's%20Registration%20Form.html" target="_blank" class="event-link">View →</a>
+                </div>
+            </div>
+            
+            <div class="event-card">
+                <div class="event-header">
+                    <h3>Contact Page</h3>
+                </div>
+                <div class="event-body">
+                    <p>Get in touch with organizers</p>
+                    <a href="8.4%20Event's%20Contact%20Page.html" target="_blank" class="event-link">View →</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
