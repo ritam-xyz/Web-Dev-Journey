@@ -6,13 +6,19 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a B.Tech Computer Science student dedicated to mastering full-stack web development. Through hands-on projects and practice, I'm building a strong foundation in web technologies and best practices. This portfolio showcases my learning progression across HTML, CSS, and JavaScript.
+- 📚 **B.Tech CSE Student** - Building strong foundation in web technologies
+- 🎯 **Full Stack Developer in Progress** - Learning HTML, CSS, JavaScript, and beyond
+- 💻 **Hands-On Learner** - Building real projects to master web development concepts
+- 🏆 **8+ HTML Projects** - From practice exercises to multi-page applications
+- 🌐 **Live Portfolio** - All projects deployed and accessible online
+- 🔄 **Continuous Growth** - Progressing from HTML → CSS → JavaScript → Full Stack
+- 💡 **Problem Solver** - Creating practical solutions through structured code
 
 ---
 
-## Progress
+## 📊 Progress
 
 - **HTML** → Completed ✅  
 - **CSS** → In Progress 🔄
@@ -48,7 +54,7 @@ I'm a B.Tech Computer Science student dedicated to mastering full-stack web deve
 
 ---
 
-## Skills & Concepts Mastered
+## 🎓 Skills & Concepts Mastered
 
 **HTML:**
 - Semantic markup and accessibility
@@ -65,7 +71,7 @@ I'm a B.Tech Computer Science student dedicated to mastering full-stack web deve
 
 ---
 
-## Learning Roadmap
+## 🛣️ Learning Roadmap
 
 1. ✅ **HTML Foundation** - Completed
    - Semantic structure, forms, tables, multimedia
@@ -78,7 +84,7 @@ I'm a B.Tech Computer Science student dedicated to mastering full-stack web deve
 
 ---
 
-## Repository
+## 📂 Repository
 
 ```
 Web-Dev-Journey/
@@ -94,7 +100,7 @@ Web-Dev-Journey/
 
 ---
 
-## Connect & Explore
+## 🔗 Connect & Explore
 
 - **GitHub:** [@ritam-xyz](https://github.com/ritam-xyz)
 - **Live Portfolio:** [https://ritam-xyz.github.io/Web-Dev-Journey/](https://ritam-xyz.github.io/Web-Dev-Journey/)
