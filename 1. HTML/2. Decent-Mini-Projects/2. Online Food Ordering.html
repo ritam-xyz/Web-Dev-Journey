@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Online Food Order</title>
+</head>
+
+<body>
+    <header>
+        <h1>ONLINE FOOD ORDERING SITE :)</h1>
+    </header>
+    <hr>
+    <main>
+        <form action="/server">
+            <section>
+                <h2><u>Customer Details</u></h2>
+                <div>
+                    <label for="name">Name:</label>
+                    <input type="text" name="name" id="name" placeholder="enter your full name...">
+                </div>
+                <br>
+                <div>
+                    <label for="phn">Phone:</label>
+                    <input type="number" name="phone" id="phn" placeholder="enter your number...">
+                </div>
+                <br>
+                <div>
+                    <label for="email">Email:</label>
+                    <input type="email" name="email" id="email" placeholder="enter your email...">
+                </div>
+            </section>
+            <section>
+                <h2><u>Select Food Items</u></h2>
+                <div>
+                    <input type="checkbox" name="pizza" id="p">
+                    <label for="p">Pizza</label>
+                    <br>
+                    <input type="checkbox" name="burger" id="b">
+                    <label for="b">Burger</label>
+                    <br>
+                    <input type="checkbox" name="pasta" id="pa">
+                    <label for="pa">Pasta</label>
+                    <br>
+                    <input type="checkbox" name="sandwitch" id="s">
+                    <label for="s">Sandwitch</label>
+                </div>
+            </section>
+            <section>
+                <h2><u>Select Size</u></h2>
+                <div>
+                    <input type="radio" id="small" name="size" value="small">
+                    <label for="small">Small</label>
+                    <br>
+                    <input type="radio" id="medium" name="size" value="medium">
+                    <label for="medium">Medium</label>
+                    <br>
+                    <input type="radio" id="large" name="size" value="large">
+                    <label for="large">Large</label>
+                </div>
+            </section>
+            <section>
+                <label for="special">
+                    <h2><u>Special Instructions</u></h2>
+                </label>
+                <textarea name="sp-ins" id="special" placeholder="your instructions here..."></textarea>
+            </section>
+            <button>Place Your Order</button>
+        </form>
+    </main>
+    <hr>
+    <footer>
+        <p>Made with &hearts; in Kolkata</p>
+    </footer>
+</body>
+
+</html>

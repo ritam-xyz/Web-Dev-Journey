@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Querry Form</title>
+</head>
+
+<body>
+    <form action="/server">
+        <label for="name"><b>Name:</b></label>
+        <input type="text" name="name" id="name" placeholder="enter your full name...">
+        <br>
+        <br>
+        <b>Sex:</b>
+        <input type="radio" name="sex" id="male" value="male">
+        <label for="male">Male</label>
+        <input type="radio" name="sex" id="female" value="female">
+        <label for="female">Female</label>
+        <input type="radio" name="sex" id="o" value="others">
+        <label for="o">Others</label>
+        <br>
+        <br>
+        <label for="country"><b>Country:</b></label>
+        <select name="country" id="country">
+            <option value="">select your country</option>
+            <option value="india">India</option>
+            <option value="overseas">Overseas</option>
+        </select>
+        <br>
+        <br>
+        <label for="msg"><b>Message:</b></label>
+        <textarea name="Message" id="msg"></textarea>
+        <br>
+        <br>
+        <input type="checkbox" name="subscribe" id="sub">
+        <label for="sub"><b>Subsribe?</b></label>
+        <br>
+        <br>
+        <button>Submit</button>
+    </form>
+</body>
+
+</html>

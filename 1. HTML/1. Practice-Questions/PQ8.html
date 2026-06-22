@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Registration Form</title>
+</head>
+
+<body>
+    <h1><u>BASIC REGISTRATION FORM</u></h1>
+    <form action="/server">
+        <b>Name:</b>
+        <input type="text" name="f-name" placeholder="First Name">
+        <input type="text" name="l-name" placeholder="Last Name">
+        <br>
+        <br>
+        <label for="gender"><b>Please Select Your Gender:</b></label>
+        <select name="gender" id="gender">
+            <option value="" selected>Select</option>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+            <option value="lgtv++">LGTV++</option>
+        </select>
+        <br>
+        <br>
+        <label for="tnc">Do you agree with the <b>Terms &amp; Conditions</b>:</label>
+        <input type="checkbox" id="tnc" name="tnc-yes">
+        <label for="tnc"><b>Yes, I agree.</b></label>
+        <br>
+        <br>
+        <button>Register</button>
+        <button type="reset">Reset</button>
+    </form>
+</body>
+
+</html>

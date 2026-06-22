@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Registration Form</title>
+</head>
+
+<body>
+    <a href="8. Event Organisation.html"><img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9iLQQdpn1TK2o4BoNIaNlDln9MQPQMOse6g&s"
+            width="15px"> Go to Home|</a>
+    <h2><u>Registration Form</u></h2>
+    <form action="/server">
+        <fieldset>
+            <legend>Registration Form</legend>
+            <label for="name">Name:</label>
+            <input type="text" name="name" id="name" placeholder="enter your name...">
+            <br>
+            <br>
+            <label for="email">Email:</label>
+            <input type="email" name="email" id="email" placeholder="enter your email id...">
+            <br>
+            <br>
+            <label for="college">College:</label>
+            <input type="text" name="college" id="college" placeholder="enter your college name...">
+            <br>
+            <br>
+            <label for="branch">Branch:</label>
+            <select name="branch" id="baranch">
+                <option value="">please select an option</option>
+                <option value="bcse">Btech CSE</option>
+                <option value="mcse">Mtech CSE</option>
+                <option value="bca">BCA</option>
+                <option value="mca">MCA</option>
+                <option value="oth">others</option>
+            </select>
+            <br>
+            <br>
+            <label for="year">Year:</label>
+            <select name="year" id="year">
+                <option value="">please select an option</option>
+                <option value="1st">1st Year</option>
+                <option value="2nd">2nd Year</option>
+                <option value="3rd">3rd Year</option>
+                <option value="4th">4th Year</option>
+            </select>
+            <br>
+            <br>
+            <label for="gender"><u><b>Please Select Your Gender</u></b></label>
+            <select name="gender" id="gender">
+                <option value="" selected>Select</option>
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="others">Others</option>
+            </select>
+            <br>
+            <br>
+            <b><u>Event, You wanna participate:) </u></b>
+            <br>
+            <input type="checkbox" name="webdev" id="webdev">
+            <label for="webdev">Web Development</label>
+            <br>
+            <input type="checkbox" name="ai" id="ai">
+            <label for="ai">AI Competition</label>
+            <br>
+            <input type="checkbox" name="hack" id="hack">
+            <label for="hack">Hachathon</label>
+            <br>
+            <input type="checkbox" name="q" id="q">
+            <label for="q">Quiz</label>
+            <br>
+            <br>
+            <label for="food"><b><u>Please Select Your Food Preference:</u></b></label>
+            <select name="food" id="food">
+                <option value="" selected>Select</option>
+                <option value="veg">Veg</option>
+                <option value="nonv">Nonveg</option>
+            </select>
+            <br>
+            <br>
+            <label for="comment"><u><b>Share Any Comment:</u></b></label>
+            <br>
+            <textarea name="Comment" id="Comment" placeholder="type your comment..."></textarea>
+            <br>
+            <button>Submit</button>
+            <button type="reset">Refill</button>
+        </fieldset>
+    </form>
+</body>
+
+</html>

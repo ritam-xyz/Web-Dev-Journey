@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Movie Ticket Booking</title>
+</head>
+
+<body>
+    <header>
+        <h1>MOVIE TICKET BOOKING PORTAL</h1>
+        <marquee behavior="scroll" direction="right"><b><mark>-Get Upto 50% Off For Couples!</mark></b></marquee>
+    </header>
+    <hr>
+    <main>
+        <form action="/server">
+            <div>
+                <label for="m-name"><b>Movie Name:</b></label>
+                <select name="m-name" id="m-name">
+                    <option value="">select an option</option>
+                    <option value="terminator">Terminator</option>
+                    <option value="badass-ravikumar">Badass Ravikumar</option>
+                    <option value="kala-hiran">Kala Hiran</option>
+                    <option value="aag-babula">Aag Babula</option>
+                </select>
+            </div>
+            <br>
+            <div>
+                <label for="date"><b>Date:</b></label>
+                <input type="date" name="date" id="date">
+            </div>
+            <br>
+            <div>
+                <b><u>Seat Type:</u></b>
+                <br>
+                <input type="radio" name="seat" value="silver" id="s">
+                <label for="s">Silver</label>
+                <br>
+                <input type="radio" name="seat" value="gold" id="g">
+                <label for="g">Gold</label>
+                <br>
+                <input type="radio" name="seat" value="platinum" id="p">
+                <label for="p">Platinum</label>
+            </div>
+            <br>
+            <div>
+                <b><u>Snacks:</u></b>
+                <br>
+                <input type="checkbox" name="popcorn" id="pop">
+                <label for="pop">Popcorn</label>
+                <br>
+                <input type="checkbox" name="cold-drink" id="c">
+                <label for="c">Cold Drink</label>
+                <br>
+                <input type="checkbox" name="Nachos" id="n">
+                <label for="n">Nachos</label>
+            </div>
+            <br>
+            <div>
+                <label for="ticket"><b><u>Number of Tickets:</u></b></label>
+                <input type="number" id="ticket" name="ticket-no">
+            </div>
+            <br>
+            <button>Book Tickets</button>
+        </form>
+    </main>
+    <hr>
+</body>
+
+</html>
