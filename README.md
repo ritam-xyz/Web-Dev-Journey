@@ -1,7 +1,7 @@
 # Web Development Journey 🚀
 
 **Ritam Das**  
-B.Tech CSE Student | Sigma Batch - Apna College
+B.Tech CSE Student | Learning Full-Stack Wevelopment | Building Mini Projects Around Them Before Major Projects|
 
 ### 🌐 Live Portfolio
 **[View My Portfolio](https://ritam-xyz.github.io/Web-Dev-Journey/)** - Click here to see all my projects live!
